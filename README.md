@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Afrah Aden</h1>
 <h3 align="center">I'm currently pursuing Bachelor of Science in Information Technology</h3>
 
-<h3 align="center">Connect with me:</h3>
+<h4 align="center">About me</h4>
 
-I am a driven individual from Nairobi, Kenya with a passion for software engineering and data science. My interest lies in leveraging technology to tackle complex problems and making a positive impact through my work. Staying up-to-date with the latest advancements in technology is of utmost importance to me as I believe it is crucial for success in this field. I am committed to keeping pace with emerging trends and technologies, as I strive towards achieving my goals.
+<h5 >I am a driven individual from Nairobi, Kenya with a passion for software engineering and data science. My interest lies in leveraging technology to tackle complex problems and making a positive impact through my work. Staying up-to-date with the latest advancements in technology is of utmost importance to me as I believe it is crucial for success in this field. I am committed to keeping pace with emerging trends and technologies, as I strive towards achieving my goals.</h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
