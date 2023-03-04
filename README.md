@@ -1,6 +1,8 @@
-## Hi there 👋, my name is Afrah Aden
+# Hi there 👋, my name is Afrah Aden
 
-#### I am a driven individual from Nairobi, Kenya with a passion for software engineering and data science. My interest lies in leveraging technology to tackle complex problems and making a positive impact through my work. Staying up-to-date with the latest advancements in technology is of utmost importance to me as I believe it is crucial for success in this field. I am committed to keeping pace with emerging trends and technologies, as I strive towards achieving my goals.
+## About me
+
+#### I am a student currently pursuing a Bachelor of Science degree in Information Technolog. My passion lies in software engineering and data science, and I'm always seeking ways to use technology to solve complex problems and make a positive impact through my work. Staying up-to-date with the latest advancements in technology is critical to me as I believe it's essential for success in this field. As a result, I'm committed to keeping up with emerging trends and technologies to achieve my career goals.
 
 
 <h3 align="left">Connect with me:</h3>
