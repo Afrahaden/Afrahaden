@@ -4,6 +4,10 @@
                                                                                                        
 #### I am currently pursuing a Bachelor of Science degree in Information Technolog. My passion lies in <strong>software engineering</strong> and <strong>data science</strong>, and I'm always seeking ways to use technology to solve complex problems and make a positive impact through my work. Staying up-to-date with the latest advancements in technology is critical to me as I believe it's essential for success in this field. As a result, I'm committed to keeping up with emerging trends and technologies to achieve my career goals.
 
+👨‍💻 All of my projects are available at <a href="https://afrahaden.github.io/afrah/">Portfolio website</a>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
