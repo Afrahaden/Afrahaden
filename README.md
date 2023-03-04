@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Afrah Aden
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Alt Text" style="width: 100%;">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Alt Text" width="100%";">
                                                                                                        
 #### I am currently pursuing a Bachelor of Science degree in Information Technolog. My passion lies in software engineering and data science, and I'm always seeking ways to use technology to solve complex problems and make a positive impact through my work. Staying up-to-date with the latest advancements in technology is critical to me as I believe it's essential for success in this field. As a result, I'm committed to keeping up with emerging trends and technologies to achieve my career goals.
 
