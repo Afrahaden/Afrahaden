@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Afrah Aden Abdi
                                                                                                        
-#### I am currently pursuing a Bachelor of Science degree in Information Technology.
+#### I am currently pursuing Bachelor of Science in Information Technology.
 
 👨‍💻 All of my projects are available in my <a href="https://afrahaden.github.io/afrah/"><b>portfolio</b></a>
 
