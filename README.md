@@ -2,7 +2,7 @@
                                                                                                        
 #### I am currently pursuing a Bachelor of Science degree in Information Technology.
 
-👨‍💻 All of my projects are available at in my <a href="https://afrahaden.github.io/afrah/#projects"><b>portfolio website</b></a>
+👨‍💻 All of my projects are available in my <a href="https://afrahaden.github.io/afrah/#projects"><b>portfolio</b></a>
 
 
 
