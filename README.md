@@ -1,6 +1,4 @@
 # Hi there 👋, my name is Afrah Aden
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Alt Text" style="width: 1000px; height: 150px;">
                                                                                                        
 #### I am currently pursuing a Bachelor of Science degree in Information Technolog.
 
