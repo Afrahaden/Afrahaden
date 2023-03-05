@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Afrah Aden
+# Hi there 👋, my name is Afrah Aden Abdi
                                                                                                        
 #### I am currently pursuing a Bachelor of Science degree in Information Technology.
 
