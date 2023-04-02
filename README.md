@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Afrah Aden Abdi
                                                                                                        
-#### I am currently pursuing Bachelor of Science in Information Technology.
+#### I am currently pursuing Bachelor of Science in Information Technology at Jomo Kenyatta University of Agriculture and Technology(JKUAT).
 
 👨‍💻 All of my projects are available in my <a href="https://afrahaden.github.io/afrah/"><b>portfolio</b></a>
 
