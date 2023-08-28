@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Afrah Aden Abdi
 
-👨‍💻 All of my projects are available in my <a href="https://afrahaden.github.io/afrah/"><b>portfolio</b></a>
+👨‍💻 All my projects are available in my <a href="https://afrahaden.github.io/afrah/"><b>portfolio</b></a>
 
 
 
